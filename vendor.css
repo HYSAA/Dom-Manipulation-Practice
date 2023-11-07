@@ -1,5 +1,17 @@
-h1{
-
-
-    color: aqua;
-}
+body {
+    font-family: sans-serif;
+  }
+  
+  .exchange-rate {
+    text-align: center;
+  }
+  
+  .exchange-rate h1 {
+    font-size: 2em;
+    margin-top: 0;
+  }
+  
+  .exchange-rate p {
+    font-size: 1.5em;
+    margin-bottom: 0;
+  }
